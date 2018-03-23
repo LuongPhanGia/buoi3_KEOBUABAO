@@ -1,0 +1,10 @@
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\bin\Debug\Client.exe.config
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\bin\Debug\Client.exe
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\bin\Debug\Client.pdb
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.Form1.resources
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.Properties.Resources.resources
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.csproj.GenerateResource.cache
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.exe
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Client\obj\Debug\Client.pdb

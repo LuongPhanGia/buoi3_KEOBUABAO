@@ -1,0 +1,7 @@
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\bin\Debug\Server.exe.config
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\bin\Debug\Server.exe
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\bin\Debug\Server.pdb
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\obj\Debug\Server.exe
+L:\dai hoc\thuchanh_laptrinhmang\LTMangBuoi3_KeoBuaBao\Server\obj\Debug\Server.pdb
